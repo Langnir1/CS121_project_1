@@ -2,8 +2,11 @@
 
 ##  Hello there
 
-My name is Joshua Halamka and I'm a freshman Computer Science major.
-This semester I hope to learn a lot more about technology and code. I want to clarify, that these are two *Seperate* topics according to what I want.
+### My name is <ins>Joshua Halamka</ins> and I'm a freshman Computer Science major.
+
+## What I hope to learn
+
+This semester I hope to learn a lot more about technology and code. I want to clarify, that these are two **Seperate** topics according to what I want.
 I want to understand the ins and out of technology. How servers, software, componentes, file management, all work and  so on so forth. 
 For example, only recently did I learn how to unzip and extract files because I have never had to do it before.
 This leads to an interest of how people manage to mod games becuase that has grabbed my attention. How do they get the game files/assets etc.. 
